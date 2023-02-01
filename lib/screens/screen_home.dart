@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:upj53_my_flutter/PortfolioList.dart';
+import 'package:sungil_i_bizcard_flutter/PortfolioList.dart';
 
 import '../widgets/PorfolioCard.dart';
 

@@ -1,7 +1,5 @@
-import 'package:device_preview/device_preview.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:upj53_my_flutter/screens/screen_home.dart';
+import 'package:sungil_i_bizcard_flutter/screens/screen_home.dart';
 
 /*void main() => runApp(
       DevicePreview(

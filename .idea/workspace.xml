@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0789cdde-4a1e-4ffe-9bc5-37ee82fcc5df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/PortfolioList.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/PortfolioList.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/PortfolioModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/PortfolioModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/screen_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/screen_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/PorfolioCard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/PorfolioCard.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,11 @@
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -49,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675211175574</updated>
       <workItem from="1675211177042" duration="230000" />
+      <workItem from="1675211630660" duration="377000" />
     </task>
     <servers />
   </component>
